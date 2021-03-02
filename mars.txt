@@ -1,4 +1,5 @@
 Cold dry, but everythin is my favourite colour
 The two moons may be a problem for Wolfman
-But the mummy will appreciate the lack of humidity 
-We added a differente line in the other copy 
+But the mummy will appreciate the lack of humidity
+We removed the conflict on this line
+
